@@ -9,42 +9,26 @@ Cr.txt - files containing data of wavelength, real part of refractive index and 
 
 # Matlab scripts
 
-BK_7.m
 
-MgF_2.m
 
-TiO_2.m
 
-calc_a_k_fi.m
 
-calc_a_k_kx.m
 
-calcs_RT.m
+spectral_refl.m 
 
-em_transmission.m
+Bragg_mirror.m - analysis of Bragg mirrors
 
-evanescent.m
-
-figs_form_Fresnel.m
-
-matr_lam.m
-
-n_BKm.m
-
-spectral_refl.m
-
-Bragg_mirror.m
+WojciechRogala_HomeworkDigitalholography.m - reconstruction of propagated holographic images
 
 
 # Pyhon scripts
 
-WojciechRogala_HomeworkDigitalholography.m
 
-HomeworkEMLight.py
+HomeworkEMLight.py -  comparison of reflectance in respect to wavelength of Ag, Au and Ch.
 
 HomeworkGeomOptics.py - geometric optics calculation of image position an magnificcation
 
-Inhomog waves.py
+Inhomog waves.py 
 
 Optical_coatings.py
 
