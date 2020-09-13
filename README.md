@@ -42,7 +42,7 @@ WojciechRogala_HomeworkDigitalholography.m
 
 HomeworkEMLight.py
 
-HomeworkGeomOptics.py
+HomeworkGeomOptics.py - geometric optics calculation of image position an magnificcation
 
 Inhomog waves.py
 
