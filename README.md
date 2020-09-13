@@ -1,10 +1,6 @@
 # Scripts done as prjects or homeworks during MSc in Photonics
 
-Ag.txt &
-
-Au.txt &
-
-Cr.txt - files containing data of wavelength, real part of refractive index and imaginary part of refractive index for Gold, Silver and Chromium mirror coatings used in "HomeworkEMLight.py"
+Ag.txt & Au.txt & Cr.txt - files containing data of wavelength, real part of refractive index and imaginary part of refractive index for Gold, Silver and Chromium mirror coatings used in "HomeworkEMLight.py"
 
 
 # Matlab scripts
