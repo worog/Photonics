@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct  5 15:24:04 2016
-nefractive index of setup of materials
+refractive index of setup of materials
 @author: cube
 """
 
