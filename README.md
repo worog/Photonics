@@ -10,7 +10,10 @@ Cr.txt - files containing data of wavelength, real part of refractive index and 
 # Matlab scripts
 
 
+
 Bragg_mirror.m - analysis of Bragg mirrors
+
+em_transmission.m - function takes refrcation indexes of layers and calculates kx, ky, incident angle 'fi', and absorbtion coefficient 'a' checking on observation of evanescent waves
 
 WojciechRogala_HomeworkDigitalholography.m - reconstruction of propagated holographic images
 
@@ -22,17 +25,11 @@ HomeworkEMLight.py -  comparison of reflectance in respect to wavelength of Ag, 
 
 HomeworkGeomOptics.py - geometric optics calculation of image position an magnificcation
 
-Inhomog waves.py 
+Optical_coatings.py - calculation and visualisation of refraction index and reflectance of high-reflector and antireflection coatings
 
-Optical_coatings.py
+Refl_transm_layers.py - Reflectance and transmission of multilayer mirror
 
-Polarization_ellipse.m
+refr_index_of_layers.py - calculates refractive index of given materials
 
-Refl_transm_layers.py
-
-Refractive_index_metals.py
-
-
-refr_index_of_layers.py
 
 
