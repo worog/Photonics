@@ -10,12 +10,6 @@ Cr.txt - files containing data of wavelength, real part of refractive index and 
 # Matlab scripts
 
 
-
-
-
-
-spectral_refl.m 
-
 Bragg_mirror.m - analysis of Bragg mirrors
 
 WojciechRogala_HomeworkDigitalholography.m - reconstruction of propagated holographic images
